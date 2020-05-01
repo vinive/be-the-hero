@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="BeTheHero" title="#BeTheHero" src="/img/be-the-hero.svg" width="200px" />
+    <img alt="BeTheHero" title="#BeTheHero" src="img/bethehero.svg" width="200px" />
     <h4 align="center">
         Seja Um Herói!
     <h4>
@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="BeTheHero" src="/img/be-the-hero.png" width="100%">
+  <img alt="BeTheHero" src="img/bethehro.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
