@@ -1,9 +1,10 @@
 <h1 align="center">
-    <img alt="BeTheHero" title="#BeTheHero" src="img/bethehero.svg" width="200px" />
-    <h4 align="center">
+    <img alt="BeTheHero" title="BeTheHero" src="img/bethehero.svg" width="200px" />
+    
+</h1>
+<h4 align="center">
         Seja Um Herói!
     <h4>
-</h1>
   <p align="center">
     <a href="https://rocketseat.com.br">
       <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-red">
