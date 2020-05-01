@@ -1,6 +1,8 @@
 <h1 align="center">
     <img alt="BeTheHero" title="#BeTheHero" src=".github/bethehero.svg" width="200px" />
-    <h4>Seja Um Herói!<h4>
+    <h4 align="center">
+        Seja Um Herói!
+    <h4>
 </h1>
 
 <h4 align="center">
