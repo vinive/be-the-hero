@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="BeTheHero" src="img/bethehro.png" width="100%">
+  <img alt="BeTheHero" src="img/bethehero.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
