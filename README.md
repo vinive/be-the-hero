@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="BeTheHero" title="#BeTheHero" src="./img/logo3x.png" width="200px" />
+    <img alt="BeTheHero" title="#BeTheHero" src="" width="200px" />
     <h4 align="center">
         Seja Um Herói!
     <h4>
