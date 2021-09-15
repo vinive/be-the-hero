@@ -33,7 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-BeTheHero ou Seja um herói é um projeto que visa conectar pessoas que desajam fazer doações monetárias para ONG's (Organizações não governamentais) que presisam de ajuda para se manter.
+BeTheHero ou Seja um herói é um projeto que visa conectar pessoas que desajam fazer doações monetárias para ONG's (Organizações não governamentais) que precisam de ajuda para se manter.
 
 ## 👨‍💻 Instrutor
 <h4>
